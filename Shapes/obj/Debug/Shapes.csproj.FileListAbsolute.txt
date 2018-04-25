@@ -1,0 +1,11 @@
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\bin\Debug\Shapes.exe.manifest
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\bin\Debug\Shapes.application
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\obj\Debug\Shapes.exe.manifest
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\obj\Debug\Shapes.application
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\theon\Desktop\MSSA\Visual_Studio\Shapes\Shapes\obj\Debug\Shapes.pdb
